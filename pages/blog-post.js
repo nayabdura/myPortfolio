@@ -35,7 +35,7 @@ const BlogPost = () => {
             The Power of Networking: Building Professional Relationships in
             Software Engineering
           </h3>
-          {/* <img src="assets/blog/power.png" alt="Blog image" /> */}
+          <img src="assets/blog/power.png" alt="Blog image" />
           <div className="post-content">
             <p>
               In the world of software engineering, technical skills are
