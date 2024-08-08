@@ -22,18 +22,17 @@ const Learning = () => {
           <Link href="/blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/power.png" alt="power" />
+                <img src="assets/blog/learning.jpeg" alt="power" />
               </span>
               <div className="content">
-                <span className="category">Software Engineering</span>
+                <span className="category">Learning</span>
                 <span className="title">
-                  The Power of Networking: Building Professional Relationships
-                  in Software Engineering
+                Continuous Learning: The Key to Staying Relevant in Software
+                Engineering
                 </span>
                 <p>
-                  In the world of software engineering, technical skills are
-                  essential, but the power of networking should not be
-                  underestimated...
+                In the rapidly evolving world of technology, continuous
+                learning is not just an advantage—it’s a necessity...
                 </p>
                 <div className="meta d-flex align-items-center">
                   <div className="d-flex align-items-center">
@@ -51,7 +50,7 @@ const Learning = () => {
         </div>
         {/* POST ITEM ENDS */}
         {/* POST ITEM STARTS */}
-        <div className="animated-layer fade-in-right-animation fadeInUp wow">
+        {/* <div className="animated-layer fade-in-right-animation fadeInUp wow">
           <Link href="/learning-blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
@@ -80,7 +79,7 @@ const Learning = () => {
               </div>
             </a>
           </Link>
-        </div>
+        </div> */}
       </div>
       {/* LATEST POSTS ENDS */}
     </section>
