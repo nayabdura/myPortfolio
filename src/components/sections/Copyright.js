@@ -8,9 +8,7 @@ const Copyright = () => {
       />
       <div>
         <span>© {new Date().getFullYear()} Abdullah Imran</span>
-        <span>
-          Designed By{" Abdulah "}
-        </span>
+        <span>Contact for more details</span>
         <ul>
           <li>
             <a href="https://github.com/nayabdura">
@@ -25,6 +23,16 @@ const Copyright = () => {
           <li>
             <a href="https://www.facebook.com/minsaimran13">
               <i className="fa-brands fa-facebook" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/abullah-imran-04116a258/">
+              <i className="fa-brands fa-linkedin" />
+            </a>
+          </li>
+          <li>
+            <a href="mailto:nayabdura@gmail.com">
+              <i className="fas fa-envelope" />
             </a>
           </li>
         </ul>
