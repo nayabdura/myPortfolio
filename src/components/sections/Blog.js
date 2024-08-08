@@ -22,7 +22,7 @@ const Learning = () => {
           <Link href="/blog-post" legacyBehavior>
             <a>
               <span className="img-holder">
-                <img src="assets/blog/power.png" alt="" />
+                <img src="assets/blog/power.png" alt="power" />
               </span>
               <div className="content">
                 <span className="category">Software Engineering</span>

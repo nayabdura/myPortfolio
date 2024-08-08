@@ -13,22 +13,17 @@ const Copyright = () => {
         </span>
         <ul>
           <li>
-            <a href="#">
+            <a href="https://github.com/nayabdura">
               <i className="fa-brands fa-github" />
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://x.com/nayab_474">
               <i className="fa-brands fa-twitter" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <i className="fa-brands fa-dribbble" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
+            <a href="https://www.facebook.com/minsaimran13">
               <i className="fa-brands fa-facebook" />
             </a>
           </li>

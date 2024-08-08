@@ -235,6 +235,7 @@ export const jqueryFuntion = () => {
         scrollInertia: 1500,
       });
     });
+    
 
     $("#menu li a").on("click", function () {
       $("#checkboxmenu").trigger("click");

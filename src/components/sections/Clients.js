@@ -14,14 +14,14 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/themeforest-dark-background.png"
+                src="assets/logos/logo.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/photodune-dark-background.png"
-                alt="client"
+                src="assets/logos/logo2.png"
+                alt="client" width={80} height={80}
               />
             </div>
           </SwiperSlide>

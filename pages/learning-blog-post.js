@@ -1,6 +1,6 @@
 import { Fragment, useEffect } from "react";
 
-const BlogPost = () => {
+const LearningBlog = () => {
   useEffect(() => {
     document.querySelector("body").classList.add("learning-blog-page");
   }, []);
@@ -108,4 +108,4 @@ const BlogPost = () => {
     </Fragment>
   );
 };
-export default BlogPost;
+export default LearningBlog;
